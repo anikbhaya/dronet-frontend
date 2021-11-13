@@ -1,0 +1,83 @@
+[
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    },
+    {
+        "name":"DJI Mavic 2 with Fly More Kit",
+        "img":"https://i.ibb.co/rchHMJT/2019-12-05-news-seahelp-dji-mavic-2-pro-hasselblad.jpg",
+        "price": 220,
+        "rating":"4.2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sunt vitae sequi eius, labore possimus porro et aspernatur ullam esse."
+    }
+]
+
+
+[
+    {
+        "fullName": "John Doe",
+        "email": "John@doe.com",
+        "img": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=74",
+        "rating": 4.2,
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem id, laboriosam odio recusandae qui suscipit.",
+    },
+    {
+        "fullName": "John Doe",
+        "email": "John@doe.com",
+        "img": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=74",
+        "rating": 4.2,
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem id, laboriosam odio recusandae qui suscipit.",
+    },
+    {
+        "fullName": "John Doe",
+        "email": "John@doe.com",
+        "img": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=74",
+        "rating": 4.2,
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem id, laboriosam odio recusandae qui suscipit.",
+    }
+]
